@@ -1,0 +1,507 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="RJRrImS4ylKSSWYs5cLp">
+    <mxGraphModel dx="1932" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-1" target="ldIfHS9F83JKmaJ_Mge_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-1" value="3 Fios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-4" target="ldIfHS9F83JKmaJ_Mge_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-22" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-9">
+          <mxGeometry x="-0.3639" y="2" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-4" target="ldIfHS9F83JKmaJ_Mge_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-21" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-18">
+          <mxGeometry x="-0.3833" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-4" value="Há fios vermelhos" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-8" target="ldIfHS9F83JKmaJ_Mge_-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="160" />
+              <mxPoint x="880" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-8" value="Cortar o segundo fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-15" target="ldIfHS9F83JKmaJ_Mge_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-26" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-24">
+          <mxGeometry x="0.0139" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-15" target="ldIfHS9F83JKmaJ_Mge_-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-30" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-29">
+          <mxGeometry x="-0.74" y="-1" relative="1" as="geometry">
+            <mxPoint x="14" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-15" value="Último fio branco" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-23" target="ldIfHS9F83JKmaJ_Mge_-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-23" value="Corte o último fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-28" target="ldIfHS9F83JKmaJ_Mge_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-33" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-32">
+          <mxGeometry x="-0.0233" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-28" target="ldIfHS9F83JKmaJ_Mge_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-39" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-38">
+          <mxGeometry x="-0.3533" y="4" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-28" value="Mais de um fio azul" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-31" target="ldIfHS9F83JKmaJ_Mge_-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-31" value="Corte o último fio azul" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.0000000000027" y="510" as="targetPoint" />
+            <mxPoint x="780.0344827586207" y="390" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-37" value="Corte o último fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-40" value="Bomba desarmada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-46" target="ldIfHS9F83JKmaJ_Mge_-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-46" value="4 Fios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-47" target="ldIfHS9F83JKmaJ_Mge_-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-51" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-50">
+          <mxGeometry x="0.1667" y="-3" relative="1" as="geometry">
+            <mxPoint x="10" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-47" target="ldIfHS9F83JKmaJ_Mge_-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-54" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-53">
+          <mxGeometry x="-0.655" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-47" value="Há mais de um fio vermelho e o último dígito serial é ímpar" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="720" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-49" target="ldIfHS9F83JKmaJ_Mge_-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-49" value="Corte o último fio vermelho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-52" target="ldIfHS9F83JKmaJ_Mge_-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-57" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-56">
+          <mxGeometry x="0.0737" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-52" target="ldIfHS9F83JKmaJ_Mge_-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1139.9999999999995" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-62" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-61">
+          <mxGeometry x="-0.7014" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-52" value="O último fio for amarelo e não houver fios vermelhos" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="720" y="820" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-55" target="ldIfHS9F83JKmaJ_Mge_-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="950" />
+              <mxPoint x="500" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-55" value="Corte o primeiro fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-59" target="ldIfHS9F83JKmaJ_Mge_-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-66" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-65">
+          <mxGeometry x="0.0561" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-59" target="ldIfHS9F83JKmaJ_Mge_-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-72" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-68">
+          <mxGeometry x="-0.7104" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-59" value="Há exatamente um fio azul" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="920" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-64" target="ldIfHS9F83JKmaJ_Mge_-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-64" value="Corte o primeiro fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-67" target="ldIfHS9F83JKmaJ_Mge_-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-71" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-70">
+          <mxGeometry x="0.0807" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-67" value="Há mais de um fio amarelo" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1020" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-69" target="ldIfHS9F83JKmaJ_Mge_-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="1260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-69" value="Corte o último fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.914;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-73" target="ldIfHS9F83JKmaJ_Mge_-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="1260" />
+              <mxPoint x="580" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-73" value="Corte o segundo fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-67" target="ldIfHS9F83JKmaJ_Mge_-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-76" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-75">
+          <mxGeometry x="-0.4048" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-77" value="Bomba desarmada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-84" target="ldIfHS9F83JKmaJ_Mge_-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-84" value="5 Fios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-85" target="ldIfHS9F83JKmaJ_Mge_-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-89" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-88">
+          <mxGeometry x="-0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-85" target="ldIfHS9F83JKmaJ_Mge_-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1480.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-92" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-91">
+          <mxGeometry x="-0.7146" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-85" value="Último fio preto e o último dígito serial é ímpar" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1440" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-87" target="ldIfHS9F83JKmaJ_Mge_-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-87" value="Corte o quarto fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-90" target="ldIfHS9F83JKmaJ_Mge_-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-95" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-94">
+          <mxGeometry x="-0.0103" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-90" target="ldIfHS9F83JKmaJ_Mge_-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-98" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-97">
+          <mxGeometry x="-0.6587" y="1" relative="1" as="geometry">
+            <mxPoint x="-8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-90" value="Há exatamente um fio vermelho e mais de um fio amarelo" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1540" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-93" target="ldIfHS9F83JKmaJ_Mge_-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="1660" />
+              <mxPoint x="500" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-93" value="Corte o primeiro fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-96" target="ldIfHS9F83JKmaJ_Mge_-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-103" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-100">
+          <mxGeometry x="0.0641" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-96" target="ldIfHS9F83JKmaJ_Mge_-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-104" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-102">
+          <mxGeometry x="-0.1667" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-96" value="Não há fios pretos" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1640" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1830" as="targetPoint" />
+            <mxPoint x="860.0000000000005" y="1710" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="860" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-99" value="Corte o segundo fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1850" as="targetPoint" />
+            <mxPoint x="1420" y="1730" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1420" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-101" value="Corte o primeiro fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-105" value="Bomba desarmada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-111" target="ldIfHS9F83JKmaJ_Mge_-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-111" value="6 Fios&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-112" target="ldIfHS9F83JKmaJ_Mge_-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-117" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-116">
+          <mxGeometry x="-0.1246" y="-1" relative="1" as="geometry">
+            <mxPoint x="-13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-112" target="ldIfHS9F83JKmaJ_Mge_-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.99999999999977" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-120" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-119">
+          <mxGeometry x="-0.4452" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-112" value="Há fios amarelos e o último dígito serial é ímpar" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2040" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-115" target="ldIfHS9F83JKmaJ_Mge_-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="2440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="2080" />
+              <mxPoint x="860" y="2450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-115" value="Cortar o terceiro fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-118" target="ldIfHS9F83JKmaJ_Mge_-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-123" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-122">
+          <mxGeometry x="0.0397" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-118" target="ldIfHS9F83JKmaJ_Mge_-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="2190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-126" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-125">
+          <mxGeometry x="-0.6741" y="-2" relative="1" as="geometry">
+            <mxPoint x="-20" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-118" value="Há exatamente um fio amarelo e há mais de um fio branco" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2150" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.00000000000864" y="2450" as="targetPoint" />
+            <mxPoint x="-99.99999999999977" y="2240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="2450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-121" value="Cortar o quarto fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="2150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-124" target="ldIfHS9F83JKmaJ_Mge_-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-137" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-128">
+          <mxGeometry x="-0.0507" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldIfHS9F83JKmaJ_Mge_-124" target="ldIfHS9F83JKmaJ_Mge_-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-138" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldIfHS9F83JKmaJ_Mge_-130">
+          <mxGeometry x="-0.414" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-124" value="Não há fios vermelhos" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.00000000000864" y="2430" as="targetPoint" />
+            <mxPoint x="220" y="2310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="2430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-127" value="Cortar o último fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.9999999999918" y="2430" as="targetPoint" />
+            <mxPoint x="780" y="2310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="2430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-129" value="Cortar o quarto fio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldIfHS9F83JKmaJ_Mge_-132" value="Bomba desarmada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2400" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

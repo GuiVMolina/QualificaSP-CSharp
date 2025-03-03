@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SENAI\\Exerc\u00EDcios 11-09-24\\Ex37\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CB7A91-2CAE-44CD-B26E-8AA22839781E}|Ex37\\Ex37.csproj|e:\\senai\\exerc\u00EDcios 11-09-24\\ex37\\ex37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CB7A91-2CAE-44CD-B26E-8AA22839781E}|Ex37\\Ex37.csproj|solutionrelative:ex37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SENAI\\Exerc\u00EDcios 11-09-24\\Ex37\\Ex37\\Program.cs",
+              "RelativeDocumentMoniker": "Ex37\\Program.cs",
+              "ToolTip": "E:\\SENAI\\Exerc\u00EDcios 11-09-24\\Ex37\\Ex37\\Program.cs",
+              "RelativeToolTip": "Ex37\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:23:19.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

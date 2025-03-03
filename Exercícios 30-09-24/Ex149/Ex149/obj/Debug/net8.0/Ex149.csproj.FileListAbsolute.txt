@@ -1,0 +1,14 @@
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\bin\Debug\net8.0\Ex149.exe
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\bin\Debug\net8.0\Ex149.deps.json
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\bin\Debug\net8.0\Ex149.runtimeconfig.json
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\bin\Debug\net8.0\Ex149.dll
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\bin\Debug\net8.0\Ex149.pdb
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\Ex149.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\Ex149.AssemblyInfoInputs.cache
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\Ex149.AssemblyInfo.cs
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\Ex149.csproj.CoreCompileInputs.cache
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\Ex149.dll
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\refint\Ex149.dll
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\Ex149.pdb
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\Ex149.genruntimeconfig.cache
+E:\SENAI\Exercícios 30-09-24\Ex149\Ex149\obj\Debug\net8.0\ref\Ex149.dll

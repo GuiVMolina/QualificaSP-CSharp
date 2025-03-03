@@ -1,0 +1,14 @@
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\bin\Debug\net8.0\Ex73.exe
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\bin\Debug\net8.0\Ex73.deps.json
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\bin\Debug\net8.0\Ex73.runtimeconfig.json
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\bin\Debug\net8.0\Ex73.dll
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\bin\Debug\net8.0\Ex73.pdb
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\Ex73.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\Ex73.AssemblyInfoInputs.cache
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\Ex73.AssemblyInfo.cs
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\Ex73.csproj.CoreCompileInputs.cache
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\Ex73.dll
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\refint\Ex73.dll
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\Ex73.pdb
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\Ex73.genruntimeconfig.cache
+E:\SENAI\Exercícios 30-09-24\Ex73\Ex73\obj\Debug\net8.0\ref\Ex73.dll

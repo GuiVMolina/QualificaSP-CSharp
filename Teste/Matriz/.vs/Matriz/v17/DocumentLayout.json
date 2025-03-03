@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SENAI\\Teste\\Matriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7911AB6F-FF98-4041-8677-4396E89386C2}|Matriz\\Matriz.csproj|e:\\senai\\teste\\matriz\\matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7911AB6F-FF98-4041-8677-4396E89386C2}|Matriz\\Matriz.csproj|solutionrelative:matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SENAI\\Teste\\Matriz\\Matriz\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz\\Program.cs",
+              "ToolTip": "E:\\SENAI\\Teste\\Matriz\\Matriz\\Program.cs",
+              "RelativeToolTip": "Matriz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:32:45.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

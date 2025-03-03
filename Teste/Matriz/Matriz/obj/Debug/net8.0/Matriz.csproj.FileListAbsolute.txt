@@ -1,0 +1,14 @@
+E:\SENAI\Teste\Matriz\Matriz\bin\Debug\net8.0\Matriz.exe
+E:\SENAI\Teste\Matriz\Matriz\bin\Debug\net8.0\Matriz.deps.json
+E:\SENAI\Teste\Matriz\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+E:\SENAI\Teste\Matriz\Matriz\bin\Debug\net8.0\Matriz.dll
+E:\SENAI\Teste\Matriz\Matriz\bin\Debug\net8.0\Matriz.pdb
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\Matriz.dll
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\Matriz.pdb
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+E:\SENAI\Teste\Matriz\Matriz\obj\Debug\net8.0\ref\Matriz.dll

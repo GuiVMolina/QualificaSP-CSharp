@@ -1,0 +1,14 @@
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\bin\Debug\net8.0\TesteWhile2.exe
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\bin\Debug\net8.0\TesteWhile2.deps.json
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\bin\Debug\net8.0\TesteWhile2.runtimeconfig.json
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\bin\Debug\net8.0\TesteWhile2.dll
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\bin\Debug\net8.0\TesteWhile2.pdb
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\TesteWhile2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\TesteWhile2.AssemblyInfoInputs.cache
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\TesteWhile2.AssemblyInfo.cs
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\TesteWhile2.csproj.CoreCompileInputs.cache
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\TesteWhile2.dll
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\refint\TesteWhile2.dll
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\TesteWhile2.pdb
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\TesteWhile2.genruntimeconfig.cache
+E:\SENAI\Teste\TesteWhile2\TesteWhile2\obj\Debug\net8.0\ref\TesteWhile2.dll

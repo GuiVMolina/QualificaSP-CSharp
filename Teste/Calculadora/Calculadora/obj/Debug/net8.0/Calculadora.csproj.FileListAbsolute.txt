@@ -1,0 +1,14 @@
+E:\SENAI\Teste\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.exe
+E:\SENAI\Teste\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+E:\SENAI\Teste\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+E:\SENAI\Teste\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.dll
+E:\SENAI\Teste\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.dll
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+E:\SENAI\Teste\Calculadora\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll

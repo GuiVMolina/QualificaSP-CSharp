@@ -1,0 +1,14 @@
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\bin\Debug\net8.0\TesteDeMesa.exe
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\bin\Debug\net8.0\TesteDeMesa.deps.json
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\bin\Debug\net8.0\TesteDeMesa.runtimeconfig.json
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\bin\Debug\net8.0\TesteDeMesa.dll
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\bin\Debug\net8.0\TesteDeMesa.pdb
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\TesteDeMesa.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\TesteDeMesa.AssemblyInfoInputs.cache
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\TesteDeMesa.AssemblyInfo.cs
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\TesteDeMesa.csproj.CoreCompileInputs.cache
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\TesteDeMesa.dll
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\refint\TesteDeMesa.dll
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\TesteDeMesa.pdb
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\TesteDeMesa.genruntimeconfig.cache
+E:\SENAI\Teste\TesteDeMesa\TesteDeMesa\obj\Debug\net8.0\ref\TesteDeMesa.dll

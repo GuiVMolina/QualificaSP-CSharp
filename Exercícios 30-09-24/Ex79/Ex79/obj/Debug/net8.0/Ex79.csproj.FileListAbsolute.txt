@@ -1,0 +1,4 @@
+E:\SENAI\Exercícios 30-09-24\Ex79\Ex79\obj\Debug\net8.0\Ex79.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Exercícios 30-09-24\Ex79\Ex79\obj\Debug\net8.0\Ex79.AssemblyInfoInputs.cache
+E:\SENAI\Exercícios 30-09-24\Ex79\Ex79\obj\Debug\net8.0\Ex79.AssemblyInfo.cs
+E:\SENAI\Exercícios 30-09-24\Ex79\Ex79\obj\Debug\net8.0\Ex79.csproj.CoreCompileInputs.cache

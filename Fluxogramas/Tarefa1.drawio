@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.7.7">
+  <diagram name="Página-1" id="U6gXd8skG5sVwSUlENoA">
+    <mxGraphModel dx="1009" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oKjHgMiD_sqj_BqSJono-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="oKjHgMiD_sqj_BqSJono-1" target="oKjHgMiD_sqj_BqSJono-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-1" value="Entrada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7bff7b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" target="oKjHgMiD_sqj_BqSJono-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.8" y="470" as="sourcePoint" />
+            <mxPoint x="179.8" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-2" value="Nome, Endereço, Telefone" style="shape=manualInput;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="oKjHgMiD_sqj_BqSJono-12" target="oKjHgMiD_sqj_BqSJono-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-12" value="Nome, Endereço, Telefone" style="shape=display;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-13" value="Saída" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff7b7b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-15" value="Inicia o algoritimo" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7b7b7b;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-16" value="Armazena as variáveis Nome, Endereço e Telefone" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7b7b7b;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-17" value="Exibe na tela as variáveis Nome, Endereço e Telefone" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7b7b7b;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKjHgMiD_sqj_BqSJono-18" value="Encerra o algoritmo" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7b7b7b;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

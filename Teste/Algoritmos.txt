@@ -1,0 +1,46 @@
+A) Escreva o algoritmo para trocar um pneu
+Contexto: A pessoa que vai trocar o pneu possui um pneu reserva (step) no seu porta-malas e também possui as ferramentas necessárias
+• Abrir o porta-malas
+• Pegar as ferramentas necessárias (chave e macaco)
+• Pegar o pneu reserva (step)
+• Levantar o carro usando o macaco
+• Desparafusar o pneu do carro com a chave
+• Tirar o pneu ineficaz do encaixe do carro
+• Colocar o novo pneu no lugar do encaixe do pneu antigo
+• Parafusar o novo pneu do carro com a chave
+• Recolocar o carro na sua altura original usando o macaco
+• Guardar as ferramentas utilizadas
+• Guardar o pneu antigo
+• Fechar o porta-malas
+Pronto, pneu trocado
+
+B) Escreva o algoritmo para trocar uma lâmpada
+Contexto: A pessoa que vai trocar a lâmpada possui uma caixa com diversas lâmpadas de sobra
+• Pegar uma nova lâmpada
+• Desligar a fonte de energia onde se localiza a lâmpada a ser trocada
+• Desenroscar a lâmpada a ser trocada
+• Guardar a lâmpada antiga para joga-la no lixo adequado
+• Enroscar a nova lâmpada no lugar da antiga
+Pronto, lâmpada trocada
+
+C) Escreva o algoritmo para preparar um chá
+Contexto: A pessoa que vai fazer o chá possui uma variedade de sabores em sua casa e o fogão a sua disposição
+• Pegar o saquinho de chá com o sabor a ser utilizado
+• Ferver a água que será utilizada com um bule
+• Encher um copo / caneca com a água fervida
+• Posicionar o saquinho pego na beirada do copo / caneca de forma que o saquinho fique dentro do copo e em contato com a água
+• Esperar cerca de 10 a 15 minutos
+• Retirar o saquinho
+• Colocar uma colher pequena de açúcar
+• Mexer o açúcar usando a colher
+Pronto, chá feito e pronto para consumo
+
+D) Escreva o algoritmo para enviar uma mensagem no WhatsApp
+Contexto: A pessoa que vai enviar a mensagem no WhatsApp já está logada com sua conta no app e possui o acesso à internet
+• Pegar o dispositivo a ser utilizado
+• Encontrar a pessoa / grupo onde é desejado enviar a mensagem
+• Entrar na conversa
+• Clicar em "digitar mensagem"
+• Digitar o que é necessário passar de informação
+• Pressionar em "enviar mensagem" / Pressionar o "Enter"
+Pronto, mensagem enviada com sucesso

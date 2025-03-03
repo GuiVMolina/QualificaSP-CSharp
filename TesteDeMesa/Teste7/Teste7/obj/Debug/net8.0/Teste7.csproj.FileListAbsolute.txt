@@ -1,0 +1,14 @@
+E:\SENAI\Teste\Teste7\Teste7\bin\Debug\net8.0\Teste7.exe
+E:\SENAI\Teste\Teste7\Teste7\bin\Debug\net8.0\Teste7.deps.json
+E:\SENAI\Teste\Teste7\Teste7\bin\Debug\net8.0\Teste7.runtimeconfig.json
+E:\SENAI\Teste\Teste7\Teste7\bin\Debug\net8.0\Teste7.dll
+E:\SENAI\Teste\Teste7\Teste7\bin\Debug\net8.0\Teste7.pdb
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\Teste7.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\Teste7.AssemblyInfoInputs.cache
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\Teste7.AssemblyInfo.cs
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\Teste7.csproj.CoreCompileInputs.cache
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\Teste7.dll
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\refint\Teste7.dll
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\Teste7.pdb
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\Teste7.genruntimeconfig.cache
+E:\SENAI\Teste\Teste7\Teste7\obj\Debug\net8.0\ref\Teste7.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SENAI\\Teste\\Teste6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C6FCB-E37E-43DD-98D5-649E47B0EF87}|Teste6\\Teste6.csproj|e:\\senai\\teste\\teste6\\teste6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73C6FCB-E37E-43DD-98D5-649E47B0EF87}|Teste6\\Teste6.csproj|solutionrelative:teste6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SENAI\\Teste\\Teste6\\Teste6\\Program.cs",
+              "RelativeDocumentMoniker": "Teste6\\Program.cs",
+              "ToolTip": "E:\\SENAI\\Teste\\Teste6\\Teste6\\Program.cs",
+              "RelativeToolTip": "Teste6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:47:27.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

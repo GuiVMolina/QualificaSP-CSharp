@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|e:\\senai\\pilares da poo\\invert\u00E1rio\\invert\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invert\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|e:\\senai\\pilares da poo\\invert\u00E1rio\\invert\u00E1rio\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invert\u00E1rio\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|e:\\senai\\pilares da poo\\invert\u00E1rio\\invert\u00E1rio\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invert\u00E1rio\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|e:\\senai\\pilares da poo\\invert\u00E1rio\\invert\u00E1rio\\services\\invertarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invert\u00E1rio\\services\\invertarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|e:\\senai\\pilares da poo\\invert\u00E1rio\\invert\u00E1rio\\utils\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invert\u00E1rio\\utils\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|e:\\senai\\pilares da poo\\invert\u00E1rio\\invert\u00E1rio\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5D7BF-0616-4100-A954-45D486CA3CDC}|Invert\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invert\u00E1rio\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Program.cs",
+              "RelativeDocumentMoniker": "Invert\u00E1rio\\Program.cs",
+              "ToolTip": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Program.cs",
+              "RelativeToolTip": "Invert\u00E1rio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:37:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayHelper.cs",
+              "DocumentMoniker": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Utils\\DisplayHelper.cs",
+              "RelativeDocumentMoniker": "Invert\u00E1rio\\Utils\\DisplayHelper.cs",
+              "ToolTip": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Utils\\DisplayHelper.cs",
+              "RelativeToolTip": "Invert\u00E1rio\\Utils\\DisplayHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:30:31.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvertarioService.cs",
+              "DocumentMoniker": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Services\\InvertarioService.cs",
+              "RelativeDocumentMoniker": "Invert\u00E1rio\\Services\\InvertarioService.cs",
+              "ToolTip": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Services\\InvertarioService.cs",
+              "RelativeToolTip": "Invert\u00E1rio\\Services\\InvertarioService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:15:19.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "Invert\u00E1rio\\Models\\Servico.cs",
+              "ToolTip": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Models\\Servico.cs",
+              "RelativeToolTip": "Invert\u00E1rio\\Models\\Servico.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:47:47.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Invert\u00E1rio\\Models\\Produto.cs",
+              "ToolTip": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Models\\Produto.cs",
+              "RelativeToolTip": "Invert\u00E1rio\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:44:07.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Invert\u00E1rio\\Models\\Item.cs",
+              "ToolTip": "E:\\SENAI\\Pilares da POO\\Invert\u00E1rio\\Invert\u00E1rio\\Models\\Item.cs",
+              "RelativeToolTip": "Invert\u00E1rio\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:40:52.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
